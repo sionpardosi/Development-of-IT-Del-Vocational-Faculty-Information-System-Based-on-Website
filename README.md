@@ -73,7 +73,10 @@ This project follows an iterative approach with stages that include:
 ### Impact of the Project:
 The development of this centralized web platform has successfully addressed the critical need for an integrated solution within the IT Del Vocational Faculty. By improving the accessibility of information and streamlining operational workflows, the project delivers measurable value to students, faculty, alumni, and the wider community. This initiative represents a significant step towards modernizing the faculty's digital infrastructure, enabling better management of resources and fostering a more cohesive digital ecosystem.
 
-## Contribution & Feedback:
+--- 
+
+# Contribution & Feedback:
+
 We are very open to contributions and feedback from the community. For more information or any questions, feel free to contact us via [spardosi12@gmail.com](mailto:spardosi12@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sion-pardosi-961607254/).
 
 ## License
